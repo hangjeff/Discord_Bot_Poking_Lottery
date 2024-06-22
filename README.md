@@ -8,8 +8,8 @@
       The emojis in the Emoji column will be generated multiple times, while Special refers to being generated once (the         numbers stored in Special correspond to the Emoji column)
  * Example:  
       ![image](https://github.com/hangjeff/Discord_Bot_Poking_Lottery/assets/163969474/d90186a8-3958-48f0-a384-ed0399561a0b)  
-        * **The value 1 in Special corresponds to :zero:, so :zero: will be generated once**  
-        * **If you change the value from 1 to 4 in Special, it will be :three:**
+        **The value 1 in Special corresponds to :zero:, so :zero: will be generated once**  
+        **If you change the value from 1 to 4 in Special, it will be :three:**
 2. Click on *script.bat* to compile the java file and create the jar archive
 3. Create your own discord bot
  * **Remember to set the Intents**  
