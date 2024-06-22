@@ -19,7 +19,7 @@
    ``pip install discord.py``
 5. Change ``bot.run()`` on line 49 of *main.py* to your bot's token
 6. Click on *main.py* to activate the bot
-   * *main.py* will execute *script.bat* to create a JAR file. Set up the environment variables for Java and JAR first
+   * *main.py* will execute *script.bat* to create a JAR file. **Set up the environment variables for Java and JAR** first
 7. Send command ``/pokinglottery`` to play the plking lottery
    * Example:  
       ![image](https://github.com/hangjeff/Discord_Bot_Poking_Lottery/assets/163969474/821e1b67-2402-4328-b9d2-bf2a8a715b80)
