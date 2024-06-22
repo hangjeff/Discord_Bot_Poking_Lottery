@@ -23,5 +23,5 @@
  * Example:  
       ![image](https://github.com/hangjeff/Discord_Bot_Poking_Lottery/assets/163969474/821e1b67-2402-4328-b9d2-bf2a8a715b80)
 9. Click on those black blocks sent by the bot until you find the special emoji  
-   * ![image](https://github.com/hangjeff/Discord_Bot_Poking_Lottery/assets/163969474/8b574b49-d139-44b3-b95b-438aea758081)
+ ![image](https://github.com/hangjeff/Discord_Bot_Poking_Lottery/assets/163969474/8b574b49-d139-44b3-b95b-438aea758081)
 
