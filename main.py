@@ -30,10 +30,7 @@ def main():
     intents = discord.Intents.all()
     bot = commands.Bot(command_prefix = "/", intents = intents)
     
-    getStr = Run()
-    output = '# Play Poking Lottery\r\n'
-    if getStr is not None:
-        output += Edit_Emoji(getStr)
+    
     
     @bot.event
     async def on_ready():
@@ -42,6 +39,11 @@ def main():
     #Set the command
     @bot.command(name='pokinglottery')
     async def pokinglottery(ctx):
+        getStr = Run()
+        output = '# Play Poking Lottery\r\n'
+        
+        if getStr is not None:
+            output += Edit_Emoji(getStr)
         await ctx.send(output)
     
     bot.run('Your Token')
