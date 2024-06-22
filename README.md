@@ -20,7 +20,7 @@
    ``pip install discord.py``
 6. Change ``bot.run()`` on line 46 of *main.py* to your bot's token
 7. Click on *main.py* to activate the bot
-8. send command ``/pokinglottery`` to play the plking lottery
+8. Send command ``/pokinglottery`` to play the plking lottery
  * Example:  
       ![image](https://github.com/hangjeff/Discord_Bot_Poking_Lottery/assets/163969474/821e1b67-2402-4328-b9d2-bf2a8a715b80)
 9. Click on those black blocks sent by the bot until you find the special emoji  
