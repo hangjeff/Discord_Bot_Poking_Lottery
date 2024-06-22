@@ -11,7 +11,7 @@
         **The value 1 in Special corresponds to :zero:, so :zero: will be generated once**
 2. Click on *script.bat* to compile the java file and create the jar archive
 3. Create your own discord bot
-   * **Remember to set the Intents**  
+ * **Remember to set the Intents**  
      ![image](https://github.com/hangjeff/Discord_Bot_Poking_Lottery/assets/163969474/8a449f12-2fb8-4499-b4e9-fec219c18e85)
 4.  Add the bot to your discord server
 5. Install the required Python packages
