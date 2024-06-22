@@ -17,7 +17,7 @@
 4. Install the required Python packages
    ``pip install asyncio``
    ``pip install discord.py``
-5. Change ``bot.run()`` on line 47 of *main.py* to your bot's token
+5. Change ``bot.run()`` on line 49 of *main.py* to your bot's token
 6. Click on *main.py* to activate the bot
 7. Send command ``/pokinglottery`` to play the plking lottery
  * Example:  
