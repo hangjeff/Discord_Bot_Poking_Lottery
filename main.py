@@ -6,7 +6,8 @@ from discord.ext import commands
 
 def Run():
     try:
-        subprocess.run(['script.bat'], shell=True)
+        if not os.path.exists('Poking_Lottery.jar'):
+            subprocess.run(['script.bat'], shell=True)
         # execute jar file and capture output
         result = subprocess.check_output(['java', '-jar', 'Poking_Lottery.jar'])
         
