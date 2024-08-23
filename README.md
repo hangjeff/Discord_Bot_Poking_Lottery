@@ -17,7 +17,7 @@
 4. Install the required Python packages
    ``pip install asyncio``
    ``pip install discord.py``
-5. Change ``bot.run()`` on line 49 of *main.py* to your bot's token
+5. Change ``bot.run()`` on line 50 of *main.py* to your bot's token
 6. Click on *main.py* to activate the bot
    * *main.py* will execute *script.bat* to create a JAR file. **Set up the environment variables for Java and JAR** first
 7. Send command ``/pokinglottery`` to play the poking lottery
